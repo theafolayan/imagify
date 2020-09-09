@@ -25,9 +25,9 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 - Creatives
 - Add a Wallet system for users to pay with
 
-## Contributing
+## Contributing to Imagify
 
-Thank you for considering contributing to Imagify. Kindly open an issue on the repository with the desired features you would like implemented and we'd discuss further.
+Thank you for considering contributing to Imagify. Kindly open an issue on the repository with the desired features you would like implemented and we'd discuss further. If you'd like to code yourself, feel free to fork the repository
 
 ## Code of Conduct
 
